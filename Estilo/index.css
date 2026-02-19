@@ -1,0 +1,15 @@
+:root {
+    --CorBranca: #FFFFFF;
+    --CorVermelha: red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.BarraAcima {
+    background-color: var(--CorVermelha);
+    color: white;
+}
